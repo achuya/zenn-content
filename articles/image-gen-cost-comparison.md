@@ -4,6 +4,7 @@ emoji: "🖼️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AWS", "Bedrock", "EC2", "StableDiffusion", "クラウド"]
 published: true
+publication_name: "nislab"
 ---
 
 ## はじめに
