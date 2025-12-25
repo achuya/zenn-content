@@ -7,6 +7,18 @@ published: true
 publication_name: "nislab"
 ---
 
+## 私たちの研究室(Nislab)
+
+https://nisk.doshisha.ac.jp/
+
+---
+
+## アドベントカレンダー　2日目～
+
+https://nislab-advendcallender-2025.vercel.app/
+
+---
+
 ## はじめに
 
 近年、生成AI技術の発展により画像生成の需要は急速に増加しています。  
